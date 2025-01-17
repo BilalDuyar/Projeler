@@ -1,0 +1,8 @@
+C:\Users\Bilal\OneDrive\Belgeler\SharpDevelop Projects\serial\serial\obj\Debug\serial.csprojResolveAssemblyReference.cache
+C:\Users\Bilal\OneDrive\Belgeler\SharpDevelop Projects\serial\serial\obj\Debug\serial.csproj.GenerateResource.Cache
+C:\Users\Bilal\OneDrive\Belgeler\SharpDevelop Projects\serial\serial\obj\Debug\serial.MainForm.resources
+C:\Users\Bilal\OneDrive\Belgeler\SharpDevelop Projects\serial\serial\bin\Debug\serial.exe.config
+C:\Users\Bilal\OneDrive\Belgeler\SharpDevelop Projects\serial\serial\bin\Debug\serial.exe
+C:\Users\Bilal\OneDrive\Belgeler\SharpDevelop Projects\serial\serial\bin\Debug\serial.pdb
+C:\Users\Bilal\OneDrive\Belgeler\SharpDevelop Projects\serial\serial\obj\Debug\serial.exe
+C:\Users\Bilal\OneDrive\Belgeler\SharpDevelop Projects\serial\serial\obj\Debug\serial.pdb
